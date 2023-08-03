@@ -3,8 +3,8 @@
 Clean and transform data and write file to .csv, .xlsx or GeoJSON to be used as a data source for Tableau dashboards and visualizations.
 
 ## OECD - Convert ISO3 codes to country names
-Get country names from ISO-3 codes for datasets from [OECD Data](https://data.oecd.org/) using country converter.
-Notebook
+- Get country names from ISO-3 codes for datasets from [OECD Data](https://data.oecd.org/) using country converter.
+- Notebook: [Convert ISO3 to country names](https://github.com/annamandoki/data_preparation_in_python/blob/main/Convert_ISO3_to_country_names.ipynb)
 
 ### Unemployment rates in the EU
 - explore data frame containing information on unemployment rates in the EU from 2002 to 2022

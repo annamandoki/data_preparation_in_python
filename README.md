@@ -18,7 +18,7 @@ Notebook
 - Viz: [Inflation in OECD countries](https://public.tableau.com/app/profile/anna8476/viz/InflationOECD/Dashboard2)
 
 ## Water fountains in Zürich
-- Notebook
+- Notebook: [Water fountains](https://github.com/annamandoki/data_preparation_in_python/blob/main/Water_fountains_ZH.ipynb)
 - explore two datasets containing information on water fountains in Zürich
 - select and extract columns of interest and create new data frame
 - libraries used: pandas, geopandas, matplotlib

@@ -17,6 +17,12 @@ Clean and transform data and write file to .csv, .xlsx or GeoJSON to be used as 
 - libraries used: pandas, numpy, country_converter
 - Viz: [Inflation in OECD countries](https://public.tableau.com/app/profile/anna8476/viz/InflationOECD/Dashboard2)
 
+## Country, continent and ISO-3 convert - Global Passport Index
+- Notebook: [Country, continent and ISO convert]()
+- Get ISO-3 codes and continent from country names using country_converter
+- Libraries used: pandas, numpy, country_converter
+- Viz: [The Henley Passport Index](https://public.tableau.com/app/profile/anna8476/viz/GlobalPassportIndex/MapDashboard)
+
 ## Water fountains in Zürich
 - Notebook: [Water fountains](https://github.com/annamandoki/data_preparation_in_python/blob/main/Water_fountains_ZH.ipynb)
 - explore two datasets containing information on water fountains in Zürich

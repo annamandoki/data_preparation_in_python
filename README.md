@@ -18,7 +18,7 @@ Clean and transform data and write file to .csv, .xlsx or GeoJSON to be used as 
 - Viz: [Inflation in OECD countries](https://public.tableau.com/app/profile/anna8476/viz/InflationOECD/Dashboard2)
 
 ## Country, continent and ISO-3 convert - Global Passport Index
-- Notebook: [Country, continent and ISO convert]()
+- Notebook: [Country, continent and ISO convert](https://github.com/annamandoki/data_preparation_in_python/blob/main/Country_ISO_Converter_Passport_Index.ipynb)
 - Get ISO-3 codes and continent from country names using country_converter
 - Libraries used: pandas, numpy, country_converter
 - Viz: [The Henley Passport Index](https://public.tableau.com/app/profile/anna8476/viz/GlobalPassportIndex/MapDashboard)

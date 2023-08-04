@@ -29,3 +29,5 @@ Clean and transform data and write file to .csv, .xlsx or GeoJSON to be used as 
 - select and extract columns of interest and create new data frame
 - libraries used: pandas, geopandas, matplotlib
 - Viz: [Public water fountains in Zürich](https://public.tableau.com/app/profile/anna8476/viz/WaterfountainsZrich/Dashboard1)
+
+Anna Mándoki, 4 Aug 2023
